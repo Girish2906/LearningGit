@@ -4,5 +4,7 @@ public class Sum{
         System.out.println(a + b) ; 
         int c = 1200 , g = 13 ; 
         System.out.println(c + g) ; 
+        int fs = 20 , ad= 19 ; 
+        System.out.println(fs - ad) ; 
     }
 }
