@@ -3,5 +3,6 @@ public class Sum{
         int a  = 10 , b = 20; 
         System.out.println(a * b) ; 
         System.out.println("This is multiply class written by the best developer of all times") ; 
+        System.out.println("I don\'t know what\'s going on") ;  
     }
 }
